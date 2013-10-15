@@ -3,8 +3,6 @@ TinyProgressBar.js
 
 A minimalist progress bar written in vanilla.js
 
-<h1>TinyProgressBar.js</h1>
-<p>A minimalist progress bar written in vanilla.js</p>
 <h2>Use it</h2>
 <h3>At it's easiest,</h3>
 <p>To start it, call...</p>
